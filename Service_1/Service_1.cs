@@ -2,7 +2,7 @@
 
 namespace Service_1
 {
-    public class Class1
+    public class Service_1
     {
     }
 }
